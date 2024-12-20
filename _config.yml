@@ -120,13 +120,13 @@ content:
     content:
       - layout: top-middle
         title: KPI Dashboards
-        description: |
-          Designed Power BI dashboards for real-time analytics, enabling faster decision-making.
+        description: | #
+          <p style="text-align:center;">Designed Power BI dashboards for real-time analytics, enabling faster decision-making.</p>
 
       - layout: top-middle
         title: AWS Cloud Migration
-        description: |
-          Migrated data infrastructure to AWS, improving scalability and reducing processing times by 20%.
+        description: | #
+          <p style="text-align:center;">Migrated data infrastructure to AWS, improving scalability and reducing processing times by 20%.</p>
 
       - layout: top-middle
         title: Trading Insights with Machine Learning
