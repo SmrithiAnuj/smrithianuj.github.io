@@ -130,8 +130,8 @@ content:
 
       - layout: top-middle
         title: Trading Insights with Machine Learning
-        description: |
-          Developed predictive models to analyze market patterns, enhancing decision efficiency.
+        description: | #
+          <p style="text-align:center;">Developed predictive models to analyze market patterns, enhancing decision efficiency.</p>
 
   - title: Skills
     layout: text
