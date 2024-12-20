@@ -138,7 +138,7 @@ footer_show_references: true
 references_title: References Available Upon Request
 
 # Build settings
-remote_theme: smrithianuj/resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
