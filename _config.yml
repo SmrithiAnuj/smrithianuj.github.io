@@ -36,13 +36,31 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
-    content: | # this will include new lines to allow paragraphs
-      <div style="text-align: center;">
-        <strong>Google Data Analytics</strong> <br>
-        <strong>AWS Cloud Practitioner (CLF-C02)</strong> <br>
-        <strong>Microsoft Azure AI Fundamentals (Ongoing)</strong> <br>
-        <strong>AI Agents in LangGraph (Ongoing)</strong>
-      </div>
+    content:
+      - layout: left
+        title: Google Data Analytics
+        caption: Completed
+        description: |
+          Gained expertise in cleaning, organizing, and analyzing data using Python, SQL, and visualization tools. Mastered the application of data-driven decision-making and storytelling with data.
+
+      - layout: left
+        title: AWS Cloud Practitioner (CLF-C02)
+        caption: Completed
+        description: |
+          Demonstrated foundational knowledge of AWS services and cloud computing. Acquired skills in designing scalable, cost-efficient solutions and understanding security and compliance practices.
+
+      - layout: left
+        title: Microsoft Azure AI Fundamentals
+        caption: Ongoing
+        description: |
+          Learning the basics of artificial intelligence and machine learning on Microsoft Azure. Building skills in implementing AI solutions using Azure Machine Learning Studio.
+
+      - layout: left
+        title: AI Agents in LangGraph
+        caption: Ongoing
+        description: |
+          Engaged in advanced studies of generative AI and autonomous agents. Developing expertise in using LangChain to build robust AI workflows for real-world applications.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
