@@ -11,18 +11,21 @@
 
 // Navigation
 .main-nav {
-	background: lighten($secondary, 65%);
-	padding-top: 23px;
-	nav {
-		ul li {
-			a {
-				color: lighten($secondary, 35%);
-			}
-			&.active a{
-				color: lighten($primary, 10%);
-			}
-		}
-	}
+    background: $primary;
+    padding-top: 20px;
+    nav {
+        ul li {
+            a {
+                color: $text-color;
+                &:hover {
+                    color: $accent;
+                }
+            }
+            &.active a {
+                color: $link-color;
+            }
+        }
+    }
 }
 
 .section {
