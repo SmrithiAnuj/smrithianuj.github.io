@@ -1,2 +1,6 @@
+*.gem
+.bundle
 .sass-cache
-config.codekit3
+_site
+Gemfile.lock
+*.code-workspace
