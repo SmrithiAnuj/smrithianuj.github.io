@@ -8,10 +8,10 @@ const about = {
   role: 'Experienced Data Analyst',
   description:
     'Experienced Data Analyst with over 5 years of expertise in scalable software development, data engineering, and process optimization. Skilled in Python, SQL, and cloud technologies, delivering impactful, data-driven solutions.',
-  resume: '', // Add the resume link here if available
+  resume: '', 
   social: {
-    linkedin: 'https://linkedin.com/in/smrithi-ekkadu',
-    github: '', // Add GitHub link if available
+    linkedin: 'https://www.linkedin.com/in/smrithi-ekkadu-anuj-kumar/',
+    github: 'https://github.com/SmrithiAnuj/', 
   },
   profilePicture: "profile.jpeg"
 }
