@@ -5,7 +5,7 @@ const header = {
 
 const about = {
   name: 'Smrithi Anuj Kumar',
-  role: 'An Experienced Data Analyst',
+  role: 'Experienced Data Analyst',
   description:
     'Experienced Data Analyst with over 5 years of expertise in scalable software development, data engineering, and process optimization. Skilled in Python, SQL, and cloud technologies, delivering impactful, data-driven solutions.',
   resume: '', 
