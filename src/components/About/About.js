@@ -2,12 +2,21 @@ import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import { about } from '../../portfolio'
 import './About.css'
+import profilePicture from '../../assets/profile.jpeg';
 
 const About = () => {
   const { name, role, description, resume, social } = about
 
   return (
     <div className='about center'>
+      
+      {profilePicture && (
+        <div className='about__profile-picture'>
+          <img  src={profilePicture} alt={`${name}'s profile`} />
+        </div>
+      )}
+
+
       {name && (
         <h1>
           Hi, I am <span className='about__name'>{name}.</span>

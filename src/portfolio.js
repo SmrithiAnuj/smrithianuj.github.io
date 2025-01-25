@@ -13,6 +13,7 @@ const about = {
     linkedin: 'https://linkedin.com/in/smrithi-ekkadu',
     github: '', // Add GitHub link if available
   },
+  profilePicture: "profile.jpeg"
 }
 
 const projects = [
@@ -45,19 +46,20 @@ const projects = [
 
 const certs = [
   {
-    name: "Cert Name 1",
-    description: "Desc 1",
-    link: "Cert link"    
+    name: "AI Agents in LangChain",
+    description: "https://learn.deeplearning.ai/accomplishments/4d68960e-8094-4ddc-9348-1bb370c06fe8?usp=sharing",        
   },
   {
-    name: "Cert Name 2",
-    description: "Desc 2",
-    link: "Cert link"    
+    name: "AWS Cloud Practitioner",
+    description: "https://www.credly.com/badges/513bc7b0-d830-4d67-a925-75c783ab83db/linked_in_profile",    
   },
   {
-    name: "Cert Name 2",
-    description: "Desc 2",
-    link: "Cert link"    
+    name: "Databricks Gen AI Fundamentals",
+    description: "https://credentials.databricks.com/fd5f6b2c-c724-4168-a6bd-944cc92e8a85#acc.45PQmLiC",    
+  },
+  {
+    name: "Promp Design in Vertex AI",
+    description: "https://www.credly.com/badges/0cfff0b8-4dc1-46ed-b4d4-d725865374e5/linked_in_profile",    
   }
 ]
 
