@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://linkedin.com/in/smrithi-ekkadu',
+  homepage: 'https://www.linkedin.com/in/smrithi-ekkadu-anuj-kumar/',
   title: 'SAK.',
 }
 
