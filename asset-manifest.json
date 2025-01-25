@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/smrithianuj.github.io/static/css/main.dcaf1c08.chunk.css",
-    "main.js": "/smrithianuj.github.io/static/js/main.5cf441e6.chunk.js",
-    "main.js.map": "/smrithianuj.github.io/static/js/main.5cf441e6.chunk.js.map",
-    "runtime-main.js": "/smrithianuj.github.io/static/js/runtime-main.b3222aad.js",
-    "runtime-main.js.map": "/smrithianuj.github.io/static/js/runtime-main.b3222aad.js.map",
-    "static/js/2.af75fefa.chunk.js": "/smrithianuj.github.io/static/js/2.af75fefa.chunk.js",
-    "static/js/2.af75fefa.chunk.js.map": "/smrithianuj.github.io/static/js/2.af75fefa.chunk.js.map",
-    "index.html": "/smrithianuj.github.io/index.html",
-    "static/css/main.dcaf1c08.chunk.css.map": "/smrithianuj.github.io/static/css/main.dcaf1c08.chunk.css.map",
-    "static/js/2.af75fefa.chunk.js.LICENSE.txt": "/smrithianuj.github.io/static/js/2.af75fefa.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.dcaf1c08.chunk.css",
+    "main.js": "/static/js/main.5cf441e6.chunk.js",
+    "main.js.map": "/static/js/main.5cf441e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a661646.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a661646.js.map",
+    "static/js/2.af75fefa.chunk.js": "/static/js/2.af75fefa.chunk.js",
+    "static/js/2.af75fefa.chunk.js.map": "/static/js/2.af75fefa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dcaf1c08.chunk.css.map": "/static/css/main.dcaf1c08.chunk.css.map",
+    "static/js/2.af75fefa.chunk.js.LICENSE.txt": "/static/js/2.af75fefa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3222aad.js",
+    "static/js/runtime-main.7a661646.js",
     "static/js/2.af75fefa.chunk.js",
     "static/css/main.dcaf1c08.chunk.css",
     "static/js/main.5cf441e6.chunk.js"
